@@ -1,0 +1,20 @@
+{
+  "name": "otter-uid",
+  "version": "1.0.0",
+  "description": "Generates random \"unique\" identifiers.",
+  "main": "index.js",
+  "author": "Daniel Stevenson",
+  "license": "GPL-3.0",
+  "keywords": [
+    "otter",
+    "uid",
+    "uuid",
+    "guid",
+    "generate",
+    "unique",
+    "id",
+    "ids",
+    "identifier",
+    "identifiers"
+  ]
+}
